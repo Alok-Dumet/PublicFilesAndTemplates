@@ -40,15 +40,15 @@ ai/
 
 ## Procedure
 
-Mandatory on every task or issue completion. No exceptions.
+Do NOT archive automatically. Only archive when the user explicitly tells you to (e.g. "archive that," "log it," "move it to completed"). On every other completion, just finish the work and stop.
 
-### Task
+### Task — only when explicitly told to archive
 1. Do the work
 2. Remove the entry from `tasks.md`
 3. Create `completed/<YYYY-MM-DD-slug>/task.md` — copy the original task description verbatim
 4. Create `completed/<YYYY-MM-DD-slug>/explanation.md` — follow Explanation Format below
 
-### Issue
+### Issue — only when explicitly told to archive
 1. Do the work
 2. Remove the entry from `issues.md`
 3. Create `completed/<YYYY-MM-DD-slug>/issue.md` — copy the original issue description verbatim
