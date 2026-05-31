@@ -1,25 +1,10 @@
 # CORE
 
 ## Stack
-OS: Linux (WSL)
-Version Control: Git + GitHub
-Frontend: Next.js + TypeScript + Tailwind CSS
-Backend: FastAPI
-Database: Supabase + Postgres + Prisma ORM
-Auth: Clerk
-Payments: Stripe
-Email: Resend
-Cache: Upstash Redis
-DNS / CDN / Security: Cloudflare
-Deployment: Vercel
-Error Tracking: Sentry
-Analytics: PostHog
-CI/CD: GitHub Actions
-Package Manager: pnpm
-Linting: Ruff (Python) + Prettier (JS/TS)
+...
 
 ## Directives
-We are Rewriting the ParroTavern project that exists in the old directory. The new ParroTavern will use the modern stack as described in this doc. We will optimize, make better, remove unecessary or old features and practice, and improve.
+...
 
 ---
 
